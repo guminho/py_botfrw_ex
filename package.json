@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@microsoft/m365agentsplayground": "^0.2.24"
+  }
+}
