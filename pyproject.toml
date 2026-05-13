@@ -8,6 +8,7 @@ dependencies = [
     "botbuilder-ai>=4.17.1",
     "botbuilder-dialogs>=4.17.1",
     "botbuilder-integration-aiohttp>=4.17.1",
+    "microsoft-agents-hosting-aiohttp>=0.9.1",
 ]
 
 [dependency-groups]
